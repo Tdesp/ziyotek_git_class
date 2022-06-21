@@ -1,0 +1,4 @@
+hello 
+my name is student1
+I am from New York 
+I like movies  
